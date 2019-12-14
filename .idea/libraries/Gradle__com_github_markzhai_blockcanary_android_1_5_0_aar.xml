@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.markzhai:blockcanary-android:1.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/a1b180a525450a6c849137a24c32e68067b32f2d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/a1b180a525450a6c849137a24c32e68067b32f2d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

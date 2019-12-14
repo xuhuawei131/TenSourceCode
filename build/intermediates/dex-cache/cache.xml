@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_7cd9170d13335b0a0dff9a8521e16504ebc86770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/5237c2b57683d604745e6803fbb2f6ec392419fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ace69012558dde2984bc67a43c5e45736282dc38">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_f25974764f7bc06a25199903f076942ced136751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.2_6dcffb04ed51cdbc006087bbf2d26d80fcb89746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/0881034925cb15ba8369a1648d9d66b1f95b86ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_6771638ef2e6bd4c8e150f0a399605e975eaf402.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/5ae87706b480690abf99abf0e95fe2b2bec2a263/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_df2394310d69d6f76e1153bdb1b699aa65dfcb20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/531d8d1e2bc04f907d79b8a84b93c8122be8792c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_98d13b18fac54b32a7efb37354d7a98154be819b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.0/1b6c10b5120995a7542c1a31b7828fb8593c8ba/okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/okhttp-3.9.0_0bdce47b8d0ddaa4e10be8c3a595975d804778a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_a6431f29407f4aeb9998ce16e15e0c5ebbfa56c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/936c7dcc103db9a760180244b135dccfa54edaa5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_17b409eba9a667e218eb806dcc625a1251fb82ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/9dec02da9426062c35ae1faac32ada4a3ebf1c41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_9832385fafd5f9c58580eb059107b63274376be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_ba999263914e3d677e76c7d1bf2fd35dc8d15f45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/13f682b4e25ecf592cbea46a6a1d3dc660d1601e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cce451e639f1d9ab643786fd303038f7546835a">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_839fab0288da9d2a45478d6f1b14542d3be9a874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.0.2/a3bfef8122db8c395b4dc7c9845e27829bf6a6f9/converter-scalars-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3bfef8122db8c395b4dc7c9845e27829bf6a6f9">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/converter-scalars-2.0.2_38f7f2d748c262aceaeef6d204b7b0d5405460f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/ef99a83da7d38640f452a48ee7e5dfda3bfacf3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_59eaeefe4dcd7ce9da8e98559bd4f5bec41cb7dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/2.0.3/640a438d2d415c056ca6a673ac26b183b044e160/haha-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/haha-2.0.3_07eedb8447fad5e27f725a3316415a8e9095535a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.3/5a1aef6a9d56efb473b8be6b66689077e7317c45/rxjava-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a1aef6a9d56efb473b8be6b66689077e7317c45">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/rxjava-1.1.3_f08855c5ce7911ac70f86ffb4a1278345a41f197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/b31bc11b971147511e1d03e63baf3531e4904cd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_4000283d8dfc273ff8479ab39c63be5c824768e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/glide-3.7.0_34d4d9b87b6d40443ca8cf2c2c36b28f10382c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/69349f8657646c959383fbbf935d36c656df8f8b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_3b5c0c5aa2dc77ea1e3322ba9d4067e2146b0ca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_74b48f6176bebc448e946311e13a27f8500fb885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/e362f6125081235b47c4bcf2c1a23fae3febe7d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_8b9fdbe758c173195ecca9475d52ae4b1a3b6839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/14b8d40028d5c109a6851d7471f94e74f9c9eb52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_95f4c034f96736ad59db8700d87949f25e047b11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/gson-2.6.1_9508499bfe8730afa283fc708ddd9bc861dc5dfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.android/build-cache/02c5341605b422383c31cf2b3d962bb696160a5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/classes_86fc3723914aa36f25dd2c0b1ca8add9ebd637ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f02f70db00418d6895193cb3bacff5e791e81052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_d843de69c296ae97822354826abf0f62a2603be7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lingdian/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.5.4/5e3dadce30fd748563219945d867a2e96f287931/leakcanary-watcher-1.5.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5e3dadce30fd748563219945d867a2e96f287931">
+        <dex dex="/Users/lingdian/AndroidStudioProjects/TenSourceCode/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.5.4_7af3a32a94a2fc2b98b63b7ac7ed99636c4e42c1.jar" />
+    </item>
+
+</items>
